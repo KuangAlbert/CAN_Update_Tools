@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-  CANoeDLL.c
-d:\code\mcucode\can_update_tools\canoedll\canoedll\canoedll.c(34): warning C4013: “elCount”未定义；假设外部返回 int
-d:\code\mcucode\can_update_tools\canoedll\canoedll\canoedll.c(47): warning C4013: “Ascii2Hex”未定义；假设外部返回 int
-d:\code\mcucode\can_update_tools\canoedll\canoedll\canoedll.c(14): warning C4101: “offset”: 未引用的局部变量
-  dllmain.cpp
-CANoeDLL.obj : error LNK2019: 无法解析的外部符号 elCount，该符号在函数 DataTransfer 中被引用
-CANoeDLL.obj : error LNK2019: 无法解析的外部符号 Ascii2Hex，该符号在函数 DataTransfer 中被引用
-D:\code\McuCode\CAN_Update_Tools\CANoeDLL\CANoeDLL\x64\Debug\CANoeDLL.dll : fatal error LNK1120: 2 个无法解析的外部命令

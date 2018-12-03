@@ -1,4 +1,0 @@
-﻿  stdafx.cpp
-  CANoeDLL.c
-D:\install_soft\MicrosoftVisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(423,5): error MSB6006: “CL.exe”已退出，代码为 2。
-d:\code\mcucode\can_update_tools\canoedll\canoedll\canoedll.c(4): fatal error C1853: “Debug\CANoeDLL.pch”预编译头文件来自编译器的早期版本，或者预编译头为 C++ 而在 C 中使用它(或相反)
